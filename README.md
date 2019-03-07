@@ -1,3 +1,5 @@
+Planning on recreating Cognizant's home page (all links will send to actual website's corresponding links) with lazy loading and AOT compilation. In progress.
+
 # CognizantMock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
