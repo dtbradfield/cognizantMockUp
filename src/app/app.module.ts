@@ -11,6 +11,7 @@ import { IndustriesComponent } from './nav/about/industries/industries.component
 import { ServicesComponent } from './nav/about/services/services.component';
 import { LatestComponent } from './nav/about/latest/latest.component';
 import { AboutPageComponent } from './about-page/about-page.component';
+import { FootComponent } from './footer/foot/foot.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { AboutPageComponent } from './about-page/about-page.component';
     IndustriesComponent,
     ServicesComponent,
     LatestComponent,
-    AboutPageComponent
+    AboutPageComponent,
+    FootComponent
   ],
   imports: [
     BrowserModule,

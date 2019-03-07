@@ -1,0 +1,9 @@
+.container {
+    position: relative;
+    left: 18%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    width: auto;
+    height: auto;
+    display: inline-block;
+}
