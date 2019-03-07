@@ -10,6 +10,7 @@ import { LandingComponent } from './landing/landing.component';
 import { IndustriesComponent } from './nav/about/industries/industries.component';
 import { ServicesComponent } from './nav/about/services/services.component';
 import { LatestComponent } from './nav/about/latest/latest.component';
+import { AboutPageComponent } from './about-page/about-page.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { LatestComponent } from './nav/about/latest/latest.component';
     AboutComponent,
     IndustriesComponent,
     ServicesComponent,
-    LatestComponent
+    LatestComponent,
+    AboutPageComponent
   ],
   imports: [
     BrowserModule,
