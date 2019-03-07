@@ -1,9 +1,20 @@
 .container {
     position: relative;
-    left: 18%;
-    padding-top: 0%;
-    padding-bottom: 0%;
+    left: 40%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     width: auto;
     height: auto;
     display: inline-block;
+}
+
+.logo {
+    position: relative;
+    left: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    font-size: 40px;
 }
