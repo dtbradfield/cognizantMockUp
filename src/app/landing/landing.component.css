@@ -2,3 +2,10 @@
     max-height: 600px;
     width: auto;
 }
+
+.transparent {
+    background-color: rgba(0, 0, 255, .4);
+    max-width: 100%;
+    height: auto;
+    padding: 1%;
+}
