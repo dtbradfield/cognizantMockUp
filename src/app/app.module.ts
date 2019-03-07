@@ -16,8 +16,8 @@ import { LatestComponent } from './nav/about/latest/latest.component';
     AppComponent,
     TopmostComponent,
     MiddleComponent,
-    AboutComponent,
     LandingComponent,
+    AboutComponent,
     IndustriesComponent,
     ServicesComponent,
     LatestComponent
