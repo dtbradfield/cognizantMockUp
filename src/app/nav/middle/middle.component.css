@@ -1,20 +1,13 @@
-.container {
-    position: relative;
-    left: 40%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    width: auto;
-    height: auto;
-    display: inline-block;
+.navbar {
+    max-width: 83%;
+    font-size: 20px;
+    padding: 2%;
 }
 
-.logo {
-    position: relative;
-    left: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    width: auto;
-    height: auto;
-    display: inline-block;
-    font-size: 40px;
+.navbar-brand, .navbar-brand:hover {
+    color: blue;
+    font-size: 38px;
+    font-style: bold;
+    font-family: arial;
+    padding-left: 22%;
 }
