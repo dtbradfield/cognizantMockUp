@@ -7,5 +7,24 @@
     background-color: rgba(0, 0, 255, .4);
     max-width: 100%;
     height: auto;
+    padding: 3%;
+}
+
+.card-block {
+    padding: 3%;
+}
+
+h5 {
+    background-color: blue;
+    color: white;
     padding: 1%;
+    max-width: 29%;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+h4 {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
 }

@@ -11,3 +11,8 @@
     font-family: arial;
     padding-left: 22%;
 }
+
+#main-nav {
+    top: 5%;
+    width: 100%;
+}
