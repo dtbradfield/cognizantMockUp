@@ -1,6 +1,6 @@
 Planning on recreating Cognizant's home page (all links will send to actual website's corresponding links) with lazy loading and AOT compilation. In progress.
 
-Note: This is NOT my website or design. Just trying to make it look like the one they have in place.
+Note: This is NOT my website or design. Just trying to make it look like the one they have in place as a bit of a challenge.
 
 # CognizantMock
 
